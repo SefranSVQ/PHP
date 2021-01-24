@@ -1,0 +1,9 @@
+Base de Datos PDO (3) 01 - Creación de roles
+Escribe un programa compuesto por tres páginas:
+● En la primera página se muestra un listado de todos los roles que haya. Esta página
+tiene que tener un botón de añadir un nuevo rol.
+● En la segunda página se muestra un formulario con el siguiente control:
+○ Un campo de texto para introducir el rol que no puede ser vacío.
+● En la tercera página se realiza el insert en la tabla roles de nuestra base de datos, si
+los datos recibidos son válidos.. Si el insert se realiza con éxito se redirecciona a la
+primera página. Usar consultas preparadas para realizar los insert.
